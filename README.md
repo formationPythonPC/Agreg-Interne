@@ -1,21 +1,15 @@
----
-title : README
-author : Laurent Astier
-...
-
-
 **Préparation à l'Agrégation Interne de Physique-Chimie**
 ---------------------------
 
-**Notions de programmation Python^TM^ -- Arduino^TM^**
+**Notions de programmation Python -- Arduino**
 
 --------------------------------------
 
 Ce dossier contient tous les documents présentés lors des demi-journées de formation pour  : 
 
-- le langage de programmation Python^TM^
+- le langage de programmation Python
 
-- l'utilisation de microcontrôleurs du type Arduino^TM^
+- l'utilisation de microcontrôleurs du type Arduino
 
 À savoir, par ordre d'apparition dans le cours : 
 
