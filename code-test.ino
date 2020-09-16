@@ -9,4 +9,5 @@ digitalWrite(13, HIGH) ; // on place la broche 13 à l'état haut (5 Volts)
 delay(500) ;// on attend 500 ms
 digitalWrite(13, LOW) ; // on place la broche 13 à l'état bas (0 Volt)
 delay(300) ;// on attend 300 ms 
+// et la boucle recommence ...
 }
