@@ -13,4 +13,11 @@ Ce dossier contient tous les documents présentés lors des demi-journées de fo
 
 À savoir, par ordre d'apparition dans le cours : 
 
-- `prerequis.pdf` associé aux fichiers tests : `code-test.py` et `code-test.ino`
+- `prerequis.pdf` associé aux fichiers tests : 
+	+ `code-test.py`
+	+ `code-test.ino`
+
+- `elements-langage.pdf` associé aux programmes : 
+	+ `programme1.py`
+	+ `reaction-aide.py` et `reaction-correction.py`
+	+ `programme2.py` et `programme2-correction.py`
