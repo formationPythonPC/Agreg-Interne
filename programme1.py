@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 # définitions des variables utiles
-A0 = 2
+A0 = 4
 landa = 0.5
 omega = 6
 phi = 0
@@ -15,7 +15,7 @@ A = A0*np.exp(-landa*T)*np.sin(omega*T+phi)
 print(T[2], " --- ", A[2])
 
 # Construction de la courbe
-plt.plot(T,A)
+plt.plot(T,A, color="red")
 
 # Autres définitions
 plt.title("Oscillateur harmonique amorti")
