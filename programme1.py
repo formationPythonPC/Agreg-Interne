@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 # définitions des variables utiles
 A0 = 4
-landa = 0.5
+landa = 0.5 # lambda est un mot réservé en python : on ne peut l'utiliser comme variable
 omega = 6
 phi = 0
 
