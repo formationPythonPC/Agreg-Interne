@@ -26,6 +26,9 @@ Ce dossier contient tous les documents présentés lors des demi-journées de fo
 	+ `S1-signal1.py` et `S1-signal1-correction.py`
 	+ `S1-signal2-correction.py`
 
+- `S1-exo-meca.pdf`, exercice de mécanique associé à : 
+	+ `S1-exo-meca-aide.py` et `S1-exo-meca-correction.py`
+
 <!--
 - `S2-son-arduino.pdf` associé aux programmes : 
 	+ `S2-code1-son.ino`
