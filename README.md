@@ -13,9 +13,9 @@ Ce dossier contient tous les documents présentés lors des demi-journées de fo
 
 À savoir, par ordre d'apparition dans le cours : 
 
-- `S0-prerequis.pdf` associé aux fichiers tests : 
-	+ `S0-code-test.py`
-	+ `S0-code-test.ino`
+- `-prerequis.pdf` associé aux fichiers tests : 
+	+ `-code-test.py`
+	+ `-code-test.ino`
 
 - `S1-elements-langage.pdf` associé aux programmes : 
 	+ `S1-programme1.py`
@@ -26,4 +26,10 @@ Ce dossier contient tous les documents présentés lors des demi-journées de fo
 	+ `S1-signal1.py` et `S1-signal1-correction.py`
 	+ `S1-signal2-correction.py`
 
+<!--
+- `S2-son-arduino.pdf` associé aux programmes : 
+	+ `S2-code1-son.ino`
+	+ `S2-code2-son.ino`
 
+
+-->
