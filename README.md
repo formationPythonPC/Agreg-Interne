@@ -13,11 +13,17 @@ Ce dossier contient tous les documents présentés lors des demi-journées de fo
 
 À savoir, par ordre d'apparition dans le cours : 
 
-- `prerequis.pdf` associé aux fichiers tests : 
-	+ `code-test.py`
-	+ `code-test.ino`
+- `S0-prerequis.pdf` associé aux fichiers tests : 
+	+ `S0-code-test.py`
+	+ `S0-code-test.ino`
 
-- `elements-langage.pdf` associé aux programmes : 
-	+ `programme1.py`
-	+ `reaction-aide.py` et `reaction-correction.py`
-	+ `programme2.py` et `programme2-correction.py`
+- `S1-elements-langage.pdf` associé aux programmes : 
+	+ `S1-programme1.py`
+	+ `S1-reaction-aide.py` et `S1-reaction-correction.py`
+	+ `S1-programme2.py` et `S1-programme2-correction.py`
+
+- `S1-python-son.pdf` associé à l'activité Arduino "Produire un son en utilisant un microcontrôleur" (séance 2) et en lien avec : 
+	+ `S1-signal1.py` et `S1-signal1-correction.py`
+	+ `S1-signal2-correction.py`
+
+
