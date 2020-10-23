@@ -15,7 +15,7 @@ t1=np.linspace(0,0.01,100)
 # ou
 t2=np.arange(0,0.01,1e-4)
 
-# question 4 : :définition de l'amplitude du signal # À COMPLÉTER 
+# question 4 : :définition du signal # À COMPLÉTER 
 
 
 # question 5 : construction de la courbe # À COMPLÉTER
