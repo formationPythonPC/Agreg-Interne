@@ -29,10 +29,13 @@ Ce dossier contient tous les documents présentés lors des demi-journées de fo
 - `S1-exo-meca.pdf`, exercice de mécanique associé à : 
 	+ `S1-exo-meca-aide.py` et `S1-exo-meca-correction.py`
 
-<!--
+---------------------------------------
+- `S2-elements-lgge-arduino.pdf` associé aux petits programmes : 
+	+ `S2-blink.ino`
+	+ `S2-etat-led.ino`
+
 - `S2-son-arduino.pdf` associé aux programmes : 
 	+ `S2-code1-son.ino`
 	+ `S2-code2-son.ino`
 
 
--->
