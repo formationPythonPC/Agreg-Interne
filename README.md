@@ -18,27 +18,35 @@ Ce dossier contient tous les documents présentés lors des demi-journées de fo
 	+ `-code-test.py`
 	+ `-code-test.ino`
 
-- contenu de la séance S1 : dossier `seance1-S1` vers les fichiers : 
+---------------------------------------
 
+Pour ce qui concerne le contenu de la première séance, le dossier `seance1-S1` contenant : 
+
+- un dossier `S1-elements-lgge` : 
 	- `S1-elements-langage.pdf` associé aux programmes : 
 		+ `S1-programme1.py`
 		+ `S1-reaction-aide.py` et `S1-reaction-correction.py`
 		+ `S1-programme2.py` et `S1-programme2-correction.py`
 
+- un dossier `S1-python-son` : 
 	- `S1-python-son.pdf` associé à l'activité Arduino "Produire un son en utilisant un microcontrôleur" (séance 2) et en lien avec : 
 		+ `S1-signal1.py` et `S1-signal1-correction.py`
 		+ `S1-signal2-correction.py`
 
+- un dossier `S1-exo-vitesse` : 
 	- `S1-exo-meca.pdf`, exercice de mécanique associé à : 
 		+ `S1-exo-meca-aide.py` et `S1-exo-meca-correction.py`
 
 ---------------------------------------
-- contenu de la séance S2 : dossier `seance2-S2` vers les fichiers : 
 
+Pour le contenu de la séance S2 : dossier `seance2-S2` contenant : 
+
+- un dossier `S2-elements-lgge` : 
 	- `S2-elements-lgge-arduino.pdf` associé aux petits programmes : 
 		+ `S2-blink.ino`
 		+ `S2-etat-led.ino`
 
+- un dossier `S2-arduino-son` : 
 	- `S2-son-arduino.pdf` associé aux programmes : 
 		+ `S2-code1-son.ino`
 		+ `S2-code2-son.ino`
@@ -65,6 +73,7 @@ Ce dossier contient tous les documents présentés lors des demi-journées de fo
 -->
 
 ---------------------------------------
-- le dossier `agreg2020-partie3` contenant : 
+
+En "bonus", le dossier `agreg2020-partie3` contenant : 
 	+ `agreg20.pdf` : proposition de corrigé pour la partie 3 du sujet de l'agrégation interne 2020
 
