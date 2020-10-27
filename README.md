@@ -14,9 +14,9 @@ Ce dossier contient tous les documents présentés lors des demi-journées de fo
 À savoir, par ordre d'apparition dans le cours : 
 
 Pour préparer les séances : 
-- `-prerequis.pdf` associé aux fichiers tests : 
-	+ `-code-test.py`
-	+ `-code-test.ino`
+- `prerequis.pdf` associé aux fichiers tests : 
+	+ `code-test.py`
+	+ `code-test.ino`
 
 ---------------------------------------
 
