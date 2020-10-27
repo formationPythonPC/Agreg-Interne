@@ -13,7 +13,7 @@ Ce dossier contient tous les documents présentés lors des demi-journées de fo
 
 À savoir, par ordre d'apparition dans le cours : 
 
-- Pour préparer les séances : 
+Pour préparer les séances : 
 - `-prerequis.pdf` associé aux fichiers tests : 
 	+ `-code-test.py`
 	+ `-code-test.ino`
@@ -75,5 +75,5 @@ Pour le contenu de la séance S2 : dossier `seance2-S2` contenant :
 ---------------------------------------
 
 En "bonus", le dossier `agreg2020-partie3` contenant : 
-	+ `agreg20.pdf` : proposition de corrigé pour la partie 3 du sujet de l'agrégation interne 2020
++ `agreg20.pdf` : proposition de corrigé pour la partie 3 du sujet de l'agrégation interne 2020
 
