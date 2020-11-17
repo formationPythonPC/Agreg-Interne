@@ -51,7 +51,6 @@ Pour le contenu de la séance S2 : dossier `seance2-S2` contenant :
 		+ `S2-code1-son.ino`
 		+ `S2-code2-son.ino`
 
-<!--
 - un dossier `S2-potar` : 
 	- `S2-exo-potar.pdf` associé aux petits programmes : 
 		+ `S2-potentiometre1.ino`
@@ -73,7 +72,6 @@ Pour le contenu de la séance S2 : dossier `seance2-S2` contenant :
 		+ `S2-bonus-correc-etatD13.ino`
 		+ `S2-bonus-correc-charge3.ino`
 		+ `S2-bonus-donnees3.csv`
--->
 
 ---------------------------------------
 
